@@ -2508,6 +2508,51 @@ a {
 .cid-t5G4VZgkbf .mbr-section-title {
   color: #000000;
 }
+.cid-thfHXYXWWO {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background: #ffffff;
+}
+.cid-thfHXYXWWO .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-thfHXYXWWO .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-thfHXYXWWO .google-map {
+  height: 30rem;
+  position: relative;
+}
+.cid-thfHXYXWWO .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-thfHXYXWWO .google-map [data-state-details] {
+  color: #6b6763;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-thfHXYXWWO .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-thfHXYXWWO .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+.cid-thfHXYXWWO .mbr-section-title {
+  color: #4479d9;
+}
 .cid-t6ZJIpRES4 {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -5180,9 +5225,7 @@ a {
   transform: translateY(-5px);
 }
 .cid-sXtBi2zIQ9 {
-  padding-top: 8rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/private-luxury-yacht-charters-aruba-1.webp");
+  background-image: url("../../../assets/images/liane-lee-acpsfr-plje-unsplash-1440x960.png");
 }
 .cid-t4sPTMlpEv {
   padding-top: 3rem;
