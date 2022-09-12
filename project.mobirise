@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zeñorita Exclusive Charters",
-    "currentPage": "aruba-yacht-charter-faq.html",
+    "currentPage": "Terms-Conditions.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,7 +53,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/zeorita-exclusive-charters-logo-menu-128x43.png",
-    "mbrsiteDomain": "xymbgymz8o",
+    "mbrsiteDomain": "g4otihdrsz",
     "imageResize": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -116,7 +116,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/aruba%E2%80%99s%20most%20exclusive%20private%20yacht%20charter%20-%20exclusive%20boat%20aruba%E2%9A%93.webp"
+        "meta_image": "@PROJECT_PATH@/assets/images/jeremy-bishop-htbdmjaeok8-unsplash!-1440x859.png"
       },
       "components": [
         {
@@ -9662,7 +9662,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/yacht-events-special-occasions.webp"
+        "meta_image": "@PROJECT_PATH@/assets/images/exclusive%20yacht%20charter%20services%20aruba-1440x960.jpg"
       },
       "components": [
         {
@@ -21326,7 +21326,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": 13,
-        "meta_image": "@PROJECT_PATH@/assets/images/exclusive%20boat%20aruba%20fishing%20charter-1440x923.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/private%20fishing%20charters%20aruba%20-%20exclusive%20boat%20aruba.webp"
       },
       "components": [
         {
